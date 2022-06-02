@@ -7,8 +7,8 @@ Installation
 
 
 1.) I used Unity as IOC for the dependency injections
-2.) I used webclient for managing the api.
-3.) I added DTO Models User, UserDetails, Owner and License and a ViewModel UserViewModel to Encapsulate the DTOs.
+2.) I used webclient for managing the api
+3.) I added DTO Models User, UserDetails, Owner and License and a ViewModel UserViewModel to Encapsulate the DTOs
 4.) I added UserRepository and UserDetailRepository
 5.) I added UserService to encapsulate the data access layers.
 
