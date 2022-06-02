@@ -31,3 +31,4 @@ Using Dependency Injection
  3.if you entered a name not in the git's user list, it will throw invalid user.
  4.if you entered a name with an error in its repos, it will throw a custom error.
  5.if the user has no  repos, it will throw a no repo error but it will display its profile.
+ 
